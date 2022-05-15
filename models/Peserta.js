@@ -4,12 +4,10 @@ const PesertaScheme = mongoose.Schema({
     nama: {
 		type: String,
         required: [true, 'Sila nyatakan nama'],
-		unique: true,
 		trim: true,
 	},
     jawatan: {
 		type: String,
-		unique: true,
 		trim: true,
 	},
 	phone: {
@@ -24,4 +22,5 @@ const PesertaScheme = mongoose.Schema({
 	}
 });
 
+mongoose.models = {}
 module.exports = mongoose.models.Peserta || mongoose.model('peserta', PesertaScheme);

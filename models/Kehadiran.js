@@ -13,4 +13,5 @@ const KehadiranScheme = mongoose.Schema({
 	}
 });
 
+mongoose.models = {}
 module.exports = mongoose.models.Kehadiran || mongoose.model('kehadiran', KehadiranScheme);
