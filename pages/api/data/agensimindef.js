@@ -1,0 +1,17 @@
+export const getMINDEFAgencies = () => [
+	{ key: 'Jabatan/Agensi', value: '' },
+	{ key: 'Bahagian Dalam MINDEF', value: 'DiMINDEF' },
+    { key: 'Markas Angkatan Tentera Malaysia', value: 'ATM' },
+    { key: 'Tentera Udara Diraja Malaysia', value: 'TUDM' },
+    { key: 'Tentera Laut Diraja Malaysia', value: 'TLDM' },
+    { key: 'Tentera Darat Malaysia', value: 'TDM' },
+    { key: 'Jabatan Hal Ehwal Veteran ATM', value: 'VETERAN' },
+    { key: 'Depot Simpanan Pertahanan', value: 'DEPOT' },
+    { key: 'Perbadanan Hal Ehwal Bekas Angkatan Tentera', value: 'PERHEBAT' },
+    { key: 'Lembaga Tabung Angkatan Tentera', value: 'LTAT' },
+    { key: 'Boustead Holdings Berhad', value: 'BOUSTEAD' },
+    { key: 'Institut Penyelidikan Sains Dan Teknologi Pertahanan', value: 'STRIDE' },
+    { key: 'Penguasa Katalog Angkatan Tentera Malaysia', value: 'MAFCA' },
+    { key: 'Institut Pertahanan & Keselamatan Malaysia', value: 'MiDAS' },
+    { key: 'Majlis Industri Pertahanan, Penguatkuasaan dan Keselamatan Malaysia', value: 'MIDES' },
+];

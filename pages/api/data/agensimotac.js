@@ -1,0 +1,18 @@
+export const getMOTACAgencies = () => [
+	{ key: 'Jabatan/Agensi', value: '' },
+	{ key: 'Bahagian Dalam MOTAC', value: 'DiMOTAC' },
+    { key: 'Lembaga Penggalakan Pelancongan Malaysia', value: 'LPPM' },
+    { key: 'Arkib Negara Malaysia', value: 'ARKIB' },
+    { key: 'Perpustakaan Negara Malaysia', value: 'PUSATAKA' },
+    { key: 'Jabatan Muzium Malaysia', value: 'MUZIUM' },
+    { key: 'Jabatan Warisan Negara', value: 'WARISAN' },
+    { key: 'Jabatan Kebudayaan dan Kesenian Negara', value: 'KEBUDAYAAN' },
+    { key: 'Istana Budaya', value: 'ISTANA' },
+    { key: 'Akademi Seni Budaya dan Warisan Kebangsaan', value: 'SENI' },
+    { key: 'Perbadanan Kemajuan Kraftangan Malaysia', value: 'KRAFTANGAN'},
+    { key: 'Lembaga Pembangunan Seni Visual Negara', value: 'VISUAL' },
+    { key: 'Pusat Pelancongan Islam', value: 'PPI' },
+    { key: 'Malaysia Convention & Exhibition Bureau', value: 'MCEB' },
+    { key: 'Rangkaian Hotel Seri Malaysia', value: 'SERI MALAYSIA' },
+    { key: 'Pusat Pelancongan Malaysia (MaTiC)', value: 'MaTiC' },
+];

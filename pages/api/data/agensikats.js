@@ -1,0 +1,18 @@
+export const getKATSAgencies = () => [
+	{ key: 'Jabatan/Agensi', value: '' },
+    { key: 'Bahagian Dalam KATS', value: 'DiKATS' },
+    { key: 'Institut Tanah dan Ukur Negara', value: 'INSTUN' },
+    { key: 'Jabatan Mineral dan Geosains', value: 'JMG' },
+    { key: 'Jabatan Ukur dan Pemetaan Malaysia', value: 'JUPEM' },
+    { key: 'Jabatan Ketua Pengarah Tanah dan Galian', value: 'JKPTG' },
+    { key: 'Jabatan Perlindungan Hidupan Liar dan Taman Negara', value: 'PERHILITAN' },
+    { key: 'Jabatan Perhutanan Semenanjung Malaysia', value: 'JPSM' },
+    { key: 'Institut Penyelidikan Perhutanan Malaysia', value: 'FRIM' },
+    { key: 'Pihak Berkuasa Pembangunan Tenaga Lestari Malaysia', value: 'SEDA' },
+    { key: 'Lembaga (Penyelidikan dan Kemajuan) Perusahaan Timah', value: 'TIMAH' },
+    { key: 'Pejabat Program Malaysia untuk Pembaharuan Tenaga Elektrik', value: 'MyPower' },
+    { key: 'Lembaga Jurukur Tanah Malaysia', value: 'LJT' },
+    { key: 'Lembaga Ahli Geologi Malaysia', value: 'GEO' },
+    { key: 'Yayasan Hijau Malaysia', value: 'HIJAU' },
+    { key: 'Suruhanjaya Tenaga', value: 'TENAGA' },
+];

@@ -1,0 +1,16 @@
+export const getKPKTAgencies = () => [
+	{ key: 'Jabatan/Agensi', value: '' },
+    { key: 'Bahagian Dalam KPKT', value: 'DiKPKT' },
+    { key: 'Jabatan Bomba dan Penyelamat Malaysia', value: 'BOMBA' },
+    { key: 'Jabatan Perancangan Bandar dan Desa Semenanjung Malaysia', value: 'PLAN' },
+    { key: 'Jabatan Kerajaan Tempatan', value: 'JKT' },
+    { key: 'Jabatan Perumahan Negara', value: 'PERUMAHAN' },
+    { key: 'Jabatan Landskap Negara', value: 'LANDKSAP' },
+    { key: 'Jabatan Pengurusan Sisa Pepejal Negara', value: 'PEPEJAL' },
+    { key: 'Perbadanan Pengurusan Sisa Pepejal dan Pembersihan Awam', value: 'SWCorp' },
+    { key: 'Tribunal Perumahan dan Pengurusan Strata', value: 'TRIBUNALRUMAH' },
+    { key: 'Institut Latihan KPKT', value: 'I-KPKT' },
+    { key: 'Syarikat Perumahan Negara Berhad', value: 'SPNB' },
+    { key: 'Perbadanan PR1MA Malaysia', value: 'PR1MA' },
+    { key: 'Urbanice Malaysia', value: 'Urbanice' },  
+];

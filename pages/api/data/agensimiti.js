@@ -1,0 +1,17 @@
+export const getMITIAgencies = () => [
+	{ key: 'Jabatan/Agensi', value: '' },
+    { key: 'Bahagian Dalam MITI', value: 'DiMITI' },
+    { key: 'Lembaga Pembangunan Pelaburan Malaysia', value: 'MIDA' },
+	{ key: 'Perbadanan Pembangunan Perdagangan Luar Malaysia', value: 'MATRADE' },
+	{ key: 'Perbadanan Produktiviti Malaysia', value: 'MPC' },
+	{ key: 'Malaysian Industrial Development Finance', value: 'MIDF' },
+	{ key: 'Institut Automotif Robotik dan IoT Malaysia', value: 'MARii' },
+	{ key: 'Institut Besi Malaysia', value: 'MSI' },
+	{ key: 'SIRIM Berhad', value: 'SIRIM' },
+	{ key: 'Export-Import Bank of Malaysia Berhad', value: 'EXIM' },
+	{ key: 'Jabatan Standard Malaysia', value: 'JSM' },
+	{ key: 'Perbadanan InvestKL', value: 'InvestKL' },
+	{ key: 'Perbadanan Pembangunan Halal', value: 'HDC' },
+	{ key: 'Majlis Rekabentuk Malaysia', value: 'MRM' },
+	{ key: 'Majlis Rekabentuk Malaysia', value: 'MPK' },
+];
